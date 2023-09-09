@@ -1,4 +1,6 @@
 # NEWS-BUZZ
+
+live - http://localhost/NEWS-BUZZ/index.php
 ## A news management system  which allows users to post and manage various kinds of news content. Or you can say a simple CMS. The whole system is coded in procedural PHP and MySqli
 
 ### Requirements 
